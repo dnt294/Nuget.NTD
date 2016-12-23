@@ -1,2 +1,3 @@
 # Nuget.NTD
-Tạo Nuget cho mấy cái control sau này xài cho tiện
+
+Custom Controls used in Windows Phone 8. (Loading Indicator, Tab Menu, Icon Button, Refresh Indicator, IOS-like popup ...
